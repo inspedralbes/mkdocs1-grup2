@@ -1,7 +1,7 @@
 site_name: My Docs
 nav:
-    - 'index.md'
-    - 'm06.md'
-    - 'm07.md'
-    - 'm08.md'
-    - 'm09.md'
+    - Inici: 'index.md'
+    - 'Ent. client': 'm06.md'
+    - 'Ent. servidor': 'm07.md'
+    - 'Desplegament': 'm08.md'
+    - 'Disseny': 'm09.md'
